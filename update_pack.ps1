@@ -10,7 +10,7 @@ $SettingsFile = Join-Path $PSScriptRoot "directories.txt"
 
 # Check if settings file exists
 if (!(Test-Path $SettingsFile)) {
-    Write-Error "settings.txt not found!"
+    Write-Error "directories.txt not found!"
     exit
 }
 
@@ -18,7 +18,7 @@ if (!(Test-Path $SettingsFile)) {
 $Settings = Get-Content $SettingsFile
 
 if ($Settings.Count -lt 2) {
-    Write-Error "settings.txt must contain at least 2 lines."
+    Write-Error "directories.txt must contain at least 2 lines."
     exit
 }
 
