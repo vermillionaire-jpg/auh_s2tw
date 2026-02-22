@@ -1,4 +1,4 @@
 key	max_height_large	max_height_small	min_fort_max_height	min_height	move_speed_max_multiplier	move_speed_min_multiplier	turn_speed_multiplier	move_fast_multiplier
 #battle_cameras_tables;1;db/battle_cameras_tables/auh_battle_cameras								
-land	100.0000	100.0000	50.0000	2.0000	2.0000	0.1000	1.5000	0.0000
-naval	100.0000	100.0000	40.0000	10.0000	2.0000	0.1500	1.5000	0.0000
+land	120.0000	120.0000	50.0000	2.0000	2.0000	0.1000	1.5000	0.0000
+naval	120.0000	120.0000	40.0000	10.0000	2.0000	0.1500	1.5000	0.0000
