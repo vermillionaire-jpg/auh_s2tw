@@ -1,5 +1,5 @@
 key	value
-#_kv_rules_tables;0;db/_kv_rules_tables/auh_kv_rules	
+#_kv_rules_tables;0;db/_kv_rules_tables/redux_kv_rules	
 armour_melee_penetrating_divisor	4.0000
 armour_melee_piercing_divisor	2.0000
 armour_missile_penetrating_divisor	4.0000

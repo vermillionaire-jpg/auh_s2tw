@@ -1,5 +1,5 @@
 key	stationary_for_turn	supersedes_ability	requires_effect_enabling	bullet_text	info_card_tooltip_text	button_tooltip_text
-#unit_abilities_tables;1;db/unit_abilities_tables/auh_unit_abilities						
+#unit_abilities_tables;1;db/unit_abilities_tables/redux_unit_abilities						
 active_hiding	false		false	Stealth	This unit can become extremely stealthy for a short period of time, remaining hidden even when running. 	Stealth||For a short duration, this enables a unit to hide on any ground type and remain hidden even while running.||While activated, it also provides a bonus to charge and melee attacks.
 anti_rally	false		false	Anti-rally	Rally ability negatively affects morale of enemy units.	Anti-rally
 artillery_accuracy_boost	false		false	Increased Accuracy	This unit can increase its shooting accuracy for a short period of time.  	Targeted Fire||This increases accuracy for a short amount of time.||Once activated, there will be a cooling off period before the ability can be used again.

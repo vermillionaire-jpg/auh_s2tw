@@ -1,5 +1,5 @@
 key	class_validation	type	walk_speed	run_speed	acceleration	deceleration	charge_speed	crawl_speed	charge_distance_commence_run	charge_distance_adopt_charge_pose	charge_distance_pick_target	radius	shape	radii_ratio	mass	height	fire_arc_close	fire_arc_loose	turn_speed	hit_points
-#battle_entities_tables;0;db/battle_entities_tables/auh_battle_entities																				
+#battle_entities_tables;0;db/battle_entities_tables/redux_battle_entities																				
 ammo_caisson_large	artillery	ammo_caisson	1.6200	3.4200	2.0000	2.0000	5.2200	1.0000	20.0000	20.0000	20.0000	2.0000	ellipse	0.2500	900.0000	2.5000	30.0000	45.0000	45.0000	35
 ammo_caisson_small	artillery	ammo_caisson	1.8000	3.6000	2.0000	2.0000	5.8500	1.0000	20.0000	20.0000	20.0000	2.0000	ellipse	0.2500	700.0000	2.3000	30.0000	45.0000	45.0000	35
 artillery_breech_cannon	artillery	artillery	0.0000	0.0000	2.0000	4.0000	0.0000	0.0000	0.0000	0.0000	0.0000	1.2000	ellipse	0.4100	1000.0000	1.5000	360.0000	360.0000	45.0000	15

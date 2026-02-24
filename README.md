@@ -1,4 +1,4 @@
-### All Under Heaven Mod (Shogun 2 TW)
+### Redux Mod (Shogun 2 TW)
 
 Battle Map
 -------------------------
