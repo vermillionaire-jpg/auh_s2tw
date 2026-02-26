@@ -44,7 +44,7 @@ firing_drill_mass_fire_reload_modifier	0.0000
 firing_drill_platoon_fire_reload_modifier	0.0000
 firing_drill_rank_fire_reload_modifier	0.0000
 hnbonus_bayonet	0.0000
-hnbonus_melee_cavalry_v_infantry	5.0000
+hnbonus_melee_cavalry_v_infantry	7.0000
 hnbonus_melee_cavalry_v_squareinfantry	0.0000
 hnbonus_melee_loose_formation	10.0000
 land_mortar_projectile_calibration_target_area	750.0000
@@ -132,7 +132,7 @@ relative_melee_experience_multiplier	2.0000
 relative_melee_height_delta_divisor	0.0040
 reload_rate_bow_modifier_rain	0.0000
 reload_rate_bow_modifier_snow	0.0000
-reload_rate_gun_modifier_rain	-6.0000
+reload_rate_gun_modifier_rain	-10.0000
 reload_rate_gun_modifier_snow	0.0000
 ship_bonus_close_mod	5.0000
 ship_bonus_range	0.2000
