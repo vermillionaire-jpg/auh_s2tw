@@ -129,7 +129,7 @@ projectile_incendiary_chance_high	0.0030
 projectile_incendiary_chance_low	0.0010
 projectile_incendiary_chance_medium	0.0020
 relative_melee_experience_multiplier	2.0000
-relative_melee_height_delta_divisor	0.0040
+relative_melee_height_delta_divisor	0.0260
 reload_rate_bow_modifier_rain	0.0000
 reload_rate_bow_modifier_snow	0.0000
 reload_rate_gun_modifier_rain	-10.0000

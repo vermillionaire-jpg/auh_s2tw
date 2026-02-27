@@ -71,7 +71,7 @@ ume_encouraged_flanks_secure	4.0000
 ume_encouraged_fortification	6.0000
 ume_encouraged_fortification_compromised	3.0000
 ume_encouraged_inspired	4.0000
-ume_encouraged_on_the_hill	8.0000
+ume_encouraged_on_the_hill	6.0000
 ums_broken_threshold_lower	-30.0000
 ums_broken_threshold_upper	-2.0000
 ums_confident_threshold_lower	11.0000
